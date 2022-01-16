@@ -57,7 +57,7 @@ string guild() {
 		return "da.php?place=gate2";
 	case $class[Avatar of Sneaky Pete]:
 		return "da.php?place=gate3";
-	case $class[Ed]:
+	case $class[Ed the Undying]:
 		return "place.php?whichplace=edbase&action=edbase_book";
 	case $class[Cow Puncher]:
 	case $class[Beanslinger]:
