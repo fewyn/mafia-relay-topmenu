@@ -229,7 +229,7 @@ void linkStyle(buffer results) {
 	if(docIndex > 0)
 		results.replace(docIndex, docIndex+length(doc),town+'<a target=mainpane href="town_wrong.php">'+alt+'(W&nbsp;</span></a>/<a target=mainpane href="town_right.php">&nbsp;R)</a>'
 			+ '&nbsp;<a target=mainpane href="place.php?whichplace=manor1">manor</a>'
-			+ '&nbsp;<a target=mainpane href="place.php?whichplace=manorail">monorail</a>'
+			+ '&nbsp;<a target=mainpane href="place.php?whichplace=monorail">monorail</a>'
 			+ '&nbsp;<a target=mainpane href="'+guild()+'">guild</a>'
 			+ '&nbsp;<a target=mainpane href="shop.php?whichshop=doc">Doc</a>'
 			+ '&nbsp;<a target=mainpane href="bordertown.php">border</a>'
